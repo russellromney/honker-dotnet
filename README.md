@@ -2,6 +2,10 @@
 
 Early .NET / C# binding for Honker.
 
+License:
+
+- MIT or Apache-2.0
+
 Install:
 
 ```bash
